@@ -6,3 +6,4 @@ Follows a white line on a black background. Must be calibrated before use depend
 2)Connect motor controllers to the Arduino (digital output pins). <br><br>
 3)Setup three IR sensors and attach them sufficiently close to the motors. <br><br>
 4)Reconfigure code to reflect actual pins and differerntiate between line and background.
+5)Burn the code on the Arduino
